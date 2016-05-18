@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Registered Players">016eaa58e52312007f442f4f9754c1d4</application>
+        <application display_value="GameTimeNOW">cc6d2a58e52312007f442f4f9754c17c</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -15,7 +15,7 @@
         <mobile_title>Registered Players</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_gametimenow_registered_players</name>
-        <order/>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c96eaa58e52312007f442f4f9754c1d4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Registered Players</sys_name>
         <sys_overrides/>
         <sys_package display_value="GameTimeNow" source="x_gametimenow">a97b6258e52312007f442f4f9754c179</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="GameTimeNow">a97b6258e52312007f442f4f9754c179</sys_scope>
         <sys_update_name>sys_app_module_c96eaa58e52312007f442f4f9754c1d4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-18 20:40:33</sys_updated_on>
+        <sys_updated_on>2016-05-18 21:19:34</sys_updated_on>
         <timeline_page/>
         <title>Registered Players</title>
         <uncancelable>false</uncancelable>
