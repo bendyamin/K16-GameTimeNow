@@ -12,7 +12,7 @@
 
 	// Add your code here, such as current.addQuery(field, value);
 	var games = [];
-	var gp = new GlideRecord("sn_bbal_game_players");
+	var gp = new GlideRecord("x_gametimenow_game_players");
 	gp.addQuery("player", parent.getValue("sys_id"));
 	
 	gp.query();
@@ -31,7 +31,7 @@
         <sys_created_on>2016-05-18 21:02:54</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>66e23698e52312007f442f4f9754c19f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Games Played</sys_name>
         <sys_package display_value="GameTimeNow" source="x_gametimenow">a97b6258e52312007f442f4f9754c179</sys_package>
         <sys_policy/>
@@ -39,7 +39,7 @@
         <sys_scope display_value="GameTimeNow">a97b6258e52312007f442f4f9754c179</sys_scope>
         <sys_update_name>sys_relationship_66e23698e52312007f442f4f9754c19f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-18 21:02:54</sys_updated_on>
+        <sys_updated_on>2016-05-18 21:31:24</sys_updated_on>
     </sys_relationship>
     <sys_translated_text action="delete_multiple" query="documentkey=66e23698e52312007f442f4f9754c19f"/>
 </record_update>

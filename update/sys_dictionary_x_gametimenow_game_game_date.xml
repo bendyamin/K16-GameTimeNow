@@ -22,7 +22,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -53,7 +53,7 @@
         <sys_created_on>2016-05-18 20:36:06</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>149c6658e52312007f442f4f9754c1cb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Game Date</sys_name>
         <sys_package display_value="GameTimeNow" source="x_gametimenow">a97b6258e52312007f442f4f9754c179</sys_package>
         <sys_policy/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="GameTimeNow">a97b6258e52312007f442f4f9754c179</sys_scope>
         <sys_update_name>sys_dictionary_x_gametimenow_game_game_date</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-18 20:36:06</sys_updated_on>
+        <sys_updated_on>2016-05-18 21:35:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
